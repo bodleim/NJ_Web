@@ -1,0 +1,29 @@
+{
+    "options":[
+        {
+            "title": "오늘의 급식",
+            "thumbnail": "/img/thumbnail/급식.png",
+            "href": "todayMeal"
+        },
+        {
+            "title": "시간표",
+            "thumbnail": "/img/thumbnail/시간표.png",
+            "href": "/"
+        },
+        {
+            "title": "학사일정",
+            "thumbnail": "/img/thumbnail/학사일정.png",
+            "href": "/"
+        },
+        {
+            "title": "게시판",
+            "thumbnail": "/img/thumbnail/게시판.png",
+            "href": "/"
+        },
+        {
+            "title": "날씨",
+            "thumbnail": "/img/thumbnail/날씨.png",
+            "href": "/"
+        }
+    ]
+}
